@@ -1,0 +1,12 @@
+{
+  "name": "@reazuliqbal/tsconfig",
+  "version": "0.1.0",
+  "keywords": [],
+  "author": "Reazul Iqbal",
+  "license": "MIT",
+  "type": "module",
+  "description": "Customized TSConfig for NodeJS",
+  "dependencies": {
+    "@tsconfig/node-lts": "^22.0.1"
+  }
+}
